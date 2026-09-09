@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Programing2026Class-Jjw\\1_HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16BE70C7-506A-4A5D-B26A-77C71BD35168}|1_HelloWorld\\1_HelloWorld.vcxproj|C:\\Users\\user\\source\\repos\\Programing2026Class-Jjw\\1_HelloWorld\\1_HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16BE70C7-506A-4A5D-B26A-77C71BD35168}|1_HelloWorld\\1_HelloWorld.vcxproj|solutionrelative:1_HelloWorld\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Programing2026Class-Jjw\\1_HelloWorld\\1_HelloWorld\\main.cpp",
+              "RelativeDocumentMoniker": "1_HelloWorld\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Programing2026Class-Jjw\\1_HelloWorld\\1_HelloWorld\\main.cpp",
+              "RelativeToolTip": "1_HelloWorld\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T02:12:37.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
